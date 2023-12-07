@@ -31,7 +31,7 @@ keywords = [
     "hgvs",
     "variation"
     ]
-dynamic = ["version"]
+dynamic = ["version", "dependencies", "optional-dependencies"]
 
 [project.urls]
 "Homepage" = "https://github.com/biocommons/hgvs"
